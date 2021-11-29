@@ -1,5 +1,12 @@
 {
 	"version": 1,
+	"themeJason": [
+		{
+			"parent": "tove",
+			"style": "holographic",
+			"version": 1
+		}
+	],
 	"templateParts": [
 		{
 			"name": "header",

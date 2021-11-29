@@ -1,5 +1,12 @@
 {
 	"version": 1,
+	"themeJason": [
+		{
+			"parent": "tove",
+			"style": "new-message",
+			"version": 1
+		}
+	],
 	"templateParts": [
 		{
 			"name": "header",
