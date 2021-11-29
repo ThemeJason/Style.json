@@ -257,25 +257,16 @@
 			"customLineHeight": true,
 			"fontFamilies": [
 				{
-					"fontFamily": "\"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", sans-serif",
-					"slug": "dm-sans",
-					"name": "DM Sans",
-					"google": "family=DM+Sans:ital,wght@0,500;0,700;1,500;1,700"
+					"fontFamily": "Road Rage, cursive",
+					"slug": "road-rage",
+					"name": "Road Rage",
+					"google": "family=Road+Rage"
 				},
 				{
-					"fontFamily": "ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", sans-serif",
-					"slug": "system-sans-serif",
-					"name": "System Sans Serif"
-				},
-				{
-					"fontFamily": "ui-serif, \"Iowan Old Style\", \"Apple Garamond\", Baskerville, \"Times New Roman\", \"Droid Serif\", Times, \"Source Serif Pro\", serif",
-					"slug": "system-serif",
-					"name": "System Serif"
-				},
-				{
-					"fontFamily": "ui-monospace, Menlo, Consolas, Monaco, \"Liberation Mono\", \"Lucida Console\", monospace",
-					"slug": "system-monospace",
-					"name": "System Monospace"
+					"fontFamily": "PT Sans Narrow', sans-serif",
+					"slug": "pn-sans-narrow",
+					"name": "PT Sans Narrow",
+					"google": "family=PT+Sans+Narrow:wght@400;700"
 				}
 			],
 			"fontSizes": [
