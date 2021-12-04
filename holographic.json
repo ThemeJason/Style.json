@@ -1,31 +1,31 @@
 {
-    "name": "letterpressed",
+    "name": "holographic",
     "settings": {
         "color": {
             "palette": [
                 {
                     "slug": "foreground",
-                    "color": "#244489",
+                    "color": "#000000",
                     "name": "Foreground"
                 },
                 {
                     "slug": "background",
-                    "color": "#000000",
+                    "color": "#EFEFEF",
                     "name": "Background"
                 },
                 {
                     "slug": "primary",
-                    "color": "#CF5068",
+                    "color": "#AED5CB",
                     "name": "Primary"
                 },
                 {
                     "slug": "secondary",
-                    "color": "#B83129",
+                    "color": "#E2EAC1",
                     "name": "Secondary"
                 },
                 {
                     "slug": "tertiary",
-                    "color": "#E2BE6B",
+                    "color": "#E7C5D9",
                     "name": "Tertiary"
                 }
             ]
@@ -34,16 +34,16 @@
             "customFontFamily": true,
             "fontFamilies": [
                 {
-                    "fontFamily": "PT Sans Narrow, sans-serif",
+                    "fontFamily": "Open Sans, sans-serif",
                     "slug": "body-font",
-                    "name": "PT Sans Narrow (Body Font)",
-                    "google": "family=PT+Sans+Narrow:wght@400;700"
+                    "name": "Open Sans (Body Font)",
+                    "google": "family=Open+Sans:wght@400;700"
                 },
                 {
-                    "fontFamily": "Road Rage, cursive",
+                    "fontFamily": "Genos, sans-serif",
                     "slug": "heading-font",
-                    "name": "Road Rage (Heading Font)",
-                    "google": "family=Road+Rage"
+                    "name": "Genos (Heading Font)",
+                    "google": "family=Genos:wght@400;700;900"
                 }
             ]
         }
