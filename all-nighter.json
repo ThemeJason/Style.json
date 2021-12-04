@@ -1,31 +1,31 @@
 {
-    "name": "letterpressed",
+    "name": "all-nighter",
     "settings": {
         "color": {
             "palette": [
                 {
                     "slug": "foreground",
-                    "color": "#244489",
+                    "color": "#444444",
                     "name": "Foreground"
                 },
                 {
                     "slug": "background",
-                    "color": "#000000",
+                    "color": "#EFEFEF",
                     "name": "Background"
                 },
                 {
                     "slug": "primary",
-                    "color": "#CF5068",
+                    "color": "#272489",
                     "name": "Primary"
                 },
                 {
                     "slug": "secondary",
-                    "color": "#B83129",
+                    "color": "#0262B3",
                     "name": "Secondary"
                 },
                 {
                     "slug": "tertiary",
-                    "color": "#E2BE6B",
+                    "color": "#544E53",
                     "name": "Tertiary"
                 }
             ]
@@ -34,16 +34,16 @@
             "customFontFamily": true,
             "fontFamilies": [
                 {
-                    "fontFamily": "PT Sans Narrow, sans-serif",
-                    "slug": "body-font",
-                    "name": "PT Sans Narrow (Body Font)",
-                    "google": "family=PT+Sans+Narrow:wght@400;700"
+                    "fontFamily": "Yuji Syuku, serif",
+                    "slug": "heading-font",
+                    "name": "Yuji Syuku (Heading Font)",
+                    "google": "family=Yuji+Syuku"
                 },
                 {
-                    "fontFamily": "Road Rage, cursive",
-                    "slug": "heading-font",
-                    "name": "Road Rage (Heading Font)",
-                    "google": "family=Road+Rage"
+                    "fontFamily": "Inter, sans-serif",
+                    "slug": "body-font",
+                    "name": "Inter (Body Font)",
+                    "google": "family=Inter:wght@300;700;900"
                 }
             ]
         }
