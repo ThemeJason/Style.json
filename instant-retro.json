@@ -1,0 +1,136 @@
+{
+    "name": "letterpressed",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "slug": "foreground",
+                    "color": "#244489",
+                    "name": "Foreground"
+                },
+                {
+                    "slug": "background",
+                    "color": "#000000",
+                    "name": "Background"
+                },
+                {
+                    "slug": "primary",
+                    "color": "#CF5068",
+                    "name": "Primary"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#B83129",
+                    "name": "Secondary"
+                },
+                {
+                    "slug": "tertiary",
+                    "color": "#E2BE6B",
+                    "name": "Tertiary"
+                }
+            ]
+        },
+        "typography": {
+            "customFontFamily": true,
+            "fontFamilies": [
+                {
+                    "fontFamily": "PT Sans Narrow, sans-serif",
+                    "slug": "body-font",
+                    "name": "PT Sans Narrow (Body Font)",
+                    "google": "family=PT+Sans+Narrow:wght@400;700"
+                },
+                {
+                    "fontFamily": "Road Rage, cursive",
+                    "slug": "heading-font",
+                    "name": "Road Rage (Heading Font)",
+                    "google": "family=Road+Rage"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "blocks": {
+            "core/button": {
+                "color": {
+                    "background": "var(--wp--preset--color--primary)",
+                    "text": "var(--wp--preset--color--background)"
+                }
+            },
+            "core/post-title": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "300"
+                }
+            },
+            "core/query-title": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "300",
+                    "fontSize": "var(--wp--custom--typography--font-size--gigantic)"
+                }
+            },
+            "core/site-title": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "lineHeight": "var(--wp--custom--typography--line-height--normal)",
+                    "fontSize": "var(--wp--preset--font-size--normal)",
+                    "fontWeight": "normal"
+                }
+            }
+        },
+        "color": {
+            "background": "var(--wp--preset--color--background)",
+            "text": "var(--wp--preset--color--foreground)"
+        },
+        "elements": {
+            "h1": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "300"
+                }
+            },
+            "h2": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "300"
+                }
+            },
+            "h3": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "300"
+                }
+            },
+            "h4": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "300"
+                }
+            },
+            "h5": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "700"
+                }
+            },
+            "h6": {
+                "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--heading-font)",
+                    "fontWeight": "400"
+                }
+            },
+            "link": {
+                "color": {
+                    "text": "var(--wp--preset--color--foreground)"
+                }
+            }
+        },
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--body-font)",
+            "lineHeight": "var(--wp--custom--typography--line-height--normal)",
+            "fontSize": "var(--wp--preset--font-size--normal)"
+        }
+    },
+    "isGlobalStylesUserThemeJSON": true,
+    "version": 2
+}
