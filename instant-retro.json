@@ -1,31 +1,31 @@
 {
-    "name": "letterpressed",
+    "name": "instant-retro",
     "settings": {
         "color": {
             "palette": [
                 {
                     "slug": "foreground",
-                    "color": "#244489",
+                    "color": "#000000",
                     "name": "Foreground"
                 },
                 {
                     "slug": "background",
-                    "color": "#000000",
+                    "color": "#EFEFEF",
                     "name": "Background"
                 },
                 {
                     "slug": "primary",
-                    "color": "#CF5068",
+                    "color": "#487FC0",
                     "name": "Primary"
                 },
                 {
                     "slug": "secondary",
-                    "color": "#B83129",
+                    "color": "#AACF37",
                     "name": "Secondary"
                 },
                 {
                     "slug": "tertiary",
-                    "color": "#E2BE6B",
+                    "color": "#F27121",
                     "name": "Tertiary"
                 }
             ]
@@ -40,10 +40,10 @@
                     "google": "family=PT+Sans+Narrow:wght@400;700"
                 },
                 {
-                    "fontFamily": "Road Rage, cursive",
+                    "fontFamily": "Permanent Marker, cursive;",
                     "slug": "heading-font",
-                    "name": "Road Rage (Heading Font)",
-                    "google": "family=Road+Rage"
+                    "name": "Permanent Marker (Heading Font)",
+                    "google": "family=Permanent+Marker"
                 }
             ]
         }
