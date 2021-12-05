@@ -34,16 +34,16 @@
             "customFontFamily": true,
             "fontFamilies": [
                 {
-                    "fontFamily": "Yuji Syuku, serif",
-                    "slug": "heading-font",
-                    "name": "Yuji Syuku (Heading Font)",
-                    "google": "family=Yuji+Syuku"
-                },
-                {
                     "fontFamily": "Inter, sans-serif",
                     "slug": "body-font",
                     "name": "Inter (Body Font)",
                     "google": "family=Inter:wght@300;700;900"
+                },
+                {
+                    "fontFamily": "Yuji Syuku, serif",
+                    "slug": "heading-font",
+                    "name": "Yuji Syuku (Heading Font)",
+                    "google": "family=Yuji+Syuku"
                 }
             ]
         }
