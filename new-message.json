@@ -1,31 +1,31 @@
 {
-    "name": "letterpressed",
+    "name": "new-message",
     "settings": {
         "color": {
             "palette": [
                 {
                     "slug": "foreground",
-                    "color": "#244489",
+                    "color": "#404253",
                     "name": "Foreground"
                 },
                 {
                     "slug": "background",
-                    "color": "#000000",
+                    "color": "#D3D3DC",
                     "name": "Background"
                 },
                 {
                     "slug": "primary",
-                    "color": "#CF5068",
+                    "color": "#585B73",
                     "name": "Primary"
                 },
                 {
                     "slug": "secondary",
-                    "color": "#B83129",
+                    "color": "#87A687",
                     "name": "Secondary"
                 },
                 {
                     "slug": "tertiary",
-                    "color": "#E2BE6B",
+                    "color": "#868CB0",
                     "name": "Tertiary"
                 }
             ]
@@ -34,16 +34,16 @@
             "customFontFamily": true,
             "fontFamilies": [
                 {
-                    "fontFamily": "PT Sans Narrow, sans-serif",
+                    "fontFamily": "PT Mono, monospace;",
                     "slug": "body-font",
-                    "name": "PT Sans Narrow (Body Font)",
-                    "google": "family=PT+Sans+Narrow:wght@400;700"
+                    "name": "PT Mono (Body Font)",
+                    "google": "family=PT+Mono"
                 },
                 {
-                    "fontFamily": "Road Rage, cursive",
+                    "fontFamily": "Cute Font, cursive",
                     "slug": "heading-font",
-                    "name": "Road Rage (Heading Font)",
-                    "google": "family=Road+Rage"
+                    "name": "Cute Font (Heading Font)",
+                    "google": "family=Cute+Font"
                 }
             ]
         }
