@@ -1,31 +1,31 @@
 {
-    "name": "letterpressed",
+    "name": "midnight-neon",
     "settings": {
         "color": {
             "palette": [
                 {
                     "slug": "foreground",
-                    "color": "#244489",
+                    "color": "#444444",
                     "name": "Foreground"
                 },
                 {
                     "slug": "background",
-                    "color": "#000000",
+                    "color": "#EFEFEF",
                     "name": "Background"
                 },
                 {
                     "slug": "primary",
-                    "color": "#CF5068",
+                    "color": "#B31E6D",
                     "name": "Primary"
                 },
                 {
                     "slug": "secondary",
-                    "color": "#B83129",
+                    "color": "#874D8F",
                     "name": "Secondary"
                 },
                 {
                     "slug": "tertiary",
-                    "color": "#E2BE6B",
+                    "color": "#314193",
                     "name": "Tertiary"
                 }
             ]
@@ -34,16 +34,16 @@
             "customFontFamily": true,
             "fontFamilies": [
                 {
-                    "fontFamily": "PT Sans Narrow, sans-serif",
+                    "fontFamily": "Inconsolata, sans-serif",
                     "slug": "body-font",
-                    "name": "PT Sans Narrow (Body Font)",
-                    "google": "family=PT+Sans+Narrow:wght@400;700"
+                    "name": "Inconsolata (Body Font)",
+                    "google": "family=Inconsolata:wght@400;700"
                 },
                 {
-                    "fontFamily": "Road Rage, cursive",
+                    "fontFamily": "Orbitron, cursive",
                     "slug": "heading-font",
-                    "name": "Road Rage (Heading Font)",
-                    "google": "family=Road+Rage"
+                    "name": "Orbitron (Heading Font)",
+                    "google": "family=Orbitron:wght@400;700"
                 }
             ]
         }
